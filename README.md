@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saveliy</h1>
  <p align="center"><img src="https://i.pinimg.com/736x/a1/94/6b/a1946b1af78776cda8c74099fb3484c3.jpg" alt="iam" width="220" height="400"/></p>
-  * 🌱 A Data Scientist exploring the world of machine learning and NLP. I love turning messy data into insights and building models that actually work. 
-  * 📊 Experienced with tabular data: EDA, visualization, feature engineering, ML pipelines, and model evaluation. 
-  * 🧠 Constantly sharpening my math and ML skills while tackling Kaggle challenges — I share my code and practical solutions to help others learn. 
-  * 🛠 3rd-year Systems & Network Administration student with basic Docker, Windows, and Linux skills.
-  * 🚀 Always curious, focused, and eager to take on applied projects that push me to grow as a data professional. 
-  * 🔗 Kaggle: https://www.kaggle.com/kkekkmastera
+ <p>🌱 A Data Scientist exploring the world of machine learning and NLP. I love turning messy data into insights and building models that actually work.</p>
+ <p>📊 Experienced with tabular data: EDA, visualization, feature engineering, ML pipelines, and model evaluation.</p>
+ <p>🧠 Constantly sharpening my math and ML skills while tackling Kaggle challenges — I share my code and practical solutions to help others learn.</p>
+ <p>🛠 3rd-year Systems & Network Administration student with basic Docker, Windows, and Linux skills.</p>
+ <p>🚀 Always curious, focused, and eager to take on applied projects that push me to grow as a data professional.</p>
+ <p>🔗 Kaggle: https://www.kaggle.com/kkekkmastera</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
